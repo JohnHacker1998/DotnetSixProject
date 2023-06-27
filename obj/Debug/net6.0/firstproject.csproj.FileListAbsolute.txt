@@ -1,0 +1,102 @@
+E:\Github\firstproject\bin\Debug\net6.0\appsettings.Development.json
+E:\Github\firstproject\bin\Debug\net6.0\appsettings.json
+E:\Github\firstproject\bin\Debug\net6.0\firstproject.exe
+E:\Github\firstproject\bin\Debug\net6.0\firstproject.deps.json
+E:\Github\firstproject\bin\Debug\net6.0\firstproject.runtimeconfig.json
+E:\Github\firstproject\bin\Debug\net6.0\firstproject.dll
+E:\Github\firstproject\bin\Debug\net6.0\firstproject.pdb
+E:\Github\firstproject\bin\Debug\net6.0\Humanizer.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Github\firstproject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Github\firstproject\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Github\firstproject\bin\Debug\net6.0\Npgsql.dll
+E:\Github\firstproject\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Github\firstproject\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Github\firstproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Github\firstproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Github\firstproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Github\firstproject\bin\Debug\net6.0\System.CodeDom.dll
+E:\Github\firstproject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Github\firstproject\bin\Debug\net6.0\System.Text.Json.dll
+E:\Github\firstproject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.csproj.AssemblyReference.cache
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.AssemblyInfoInputs.cache
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.AssemblyInfo.cs
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.csproj.CoreCompileInputs.cache
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.MvcApplicationPartsAssemblyInfo.cs
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\firstproject\obj\Debug\net6.0\staticwebassets.build.json
+E:\Github\firstproject\obj\Debug\net6.0\staticwebassets.development.json
+E:\Github\firstproject\obj\Debug\net6.0\scopedcss\bundle\firstproject.styles.css
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.csproj.CopyComplete
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.dll
+E:\Github\firstproject\obj\Debug\net6.0\refint\firstproject.dll
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.pdb
+E:\Github\firstproject\obj\Debug\net6.0\firstproject.genruntimeconfig.cache
+E:\Github\firstproject\obj\Debug\net6.0\ref\firstproject.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\appsettings.Development.json
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\appsettings.json
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\firstproject.exe
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\firstproject.deps.json
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\firstproject.runtimeconfig.json
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\firstproject.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\firstproject.pdb
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Humanizer.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Npgsql.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\System.CodeDom.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\System.Text.Json.dll
+E:\Side Projects\DotnetSixProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.csproj.AssemblyReference.cache
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.AssemblyInfoInputs.cache
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.AssemblyInfo.cs
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.csproj.CoreCompileInputs.cache
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.MvcApplicationPartsAssemblyInfo.cs
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.MvcApplicationPartsAssemblyInfo.cache
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\scopedcss\bundle\firstproject.styles.css
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.csproj.CopyComplete
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.dll
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\refint\firstproject.dll
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.pdb
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\firstproject.genruntimeconfig.cache
+E:\Side Projects\DotnetSixProject\obj\Debug\net6.0\ref\firstproject.dll
